@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:Qux/Qux.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Bar/Bar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Foo/Foo.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:SharedConfig"
+      name = "SharedConfig">
+      <FileRef
+         location = "group:Config.xcconfig">
+      </FileRef>
+   </Group>
+</Workspace>
